@@ -1,0 +1,15 @@
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\rafae\Projetos\TDD-e-Testes-unitarios-usando-net-core\Calculator\obj\Debug\net8.0\ref\Calculator.dll
